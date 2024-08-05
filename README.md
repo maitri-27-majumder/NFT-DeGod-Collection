@@ -5,7 +5,7 @@ This README file provides an overview of the intended behavior of the NFT Collec
    - Display NFT DeGod Collection
    - Display Particular NFT details.
    - Bookmark NFT.
-   - infine scroll
+   - Infinite scroll
 
 ## The app displays a list of NFT tokens with the following attributes:
   - Name: The name of the NFT token.
